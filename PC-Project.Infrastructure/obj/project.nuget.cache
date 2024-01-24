@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "ACaS9Qc5xl6bG1Iku5hfwlyp9WvaeEAeVyxOND5EJx+eCzEGYzYbQ5cj1cVaZHN3B58fyNZEd+uDzapdhAI5bQ==",
+  "dgSpecHash": "sI/efrGYCMXhUO/d+TRflyFHMKipSBKEw05or2U09ZXujKYIslxAGPUUOAJpic9m5uTq/8JNVLBBHAEfNe6jDw==",
   "success": true,
-  "projectFilePath": "F:\\Portfolio\\Portfolio-Mano\\PC-Project\\PC-Project.Infrastructure\\PC-Project.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\Repositories\\Portfolio\\PC-Project.Infrastructure\\PC-Project.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manom\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.1\\microsoft.entityframeworkcore.8.0.1.nupkg.sha512",
+    "C:\\Users\\manom\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.1\\microsoft.entityframeworkcore.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\manom\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.1\\microsoft.entityframeworkcore.analyzers.8.0.1.nupkg.sha512",
+    "C:\\Users\\manom\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\manom\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\manom\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\manom\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\manom\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\manom\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\manom\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\manom\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
